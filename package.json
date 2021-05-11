@@ -32,7 +32,7 @@
     "koa-static": "^5.0.0",
     "less-plugin-npm-import": "^2.1.0",
     "lockr": "^0.8.5",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node": "^15.8.0",
     "postcss": "^8.2.6",
     "rc-animate": "^3.1.1",
